@@ -1,0 +1,28 @@
+.cont{
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+.red{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    /* background-color: blue; */
+    gap: 20px;
+}
+.red button{
+    border: 1px solid black;
+    padding: 10px;
+}
+.red input{
+    padding: 12px 10px;
+    border: 1px solid black;
+}
+.bdesc-pic{
+    height: 890px;
+    width: 70%;
+}
